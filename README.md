@@ -1,2 +1,2 @@
 # Asia
-the project from practice
+the project just for practice
